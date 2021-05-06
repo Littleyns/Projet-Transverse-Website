@@ -49,9 +49,10 @@ const Layout = (props: LayoutProps) => {
           {/* Footer */}
           <Segment inverted vertical style={{ position: "absolute", bottom: 0, width: "100%" }}>
             <Container textAlign="center">
-              <p>Fait avec <Icon name="heart" /> par Youness et Ahmed</p>
+              <p>Fait avec <Icon name="heart" /> par L'équipe</p>
               <p>Tout droits non déposées</p>
-              <p>JustHeal plateforme d'intégration<Icon name="copyright" /></p>
+              <p>JustHeal plateforme d'intégration
+                <Icon name="copyright" /></p>
             </Container>
           </Segment>
         </Sidebar.Pusher>
