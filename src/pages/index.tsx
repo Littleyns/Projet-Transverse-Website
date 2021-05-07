@@ -28,7 +28,7 @@ const IndexPage = (props: LayoutProps) =>
     {/* About this starter */}
     <Segment vertical className="stripe" >
             <div className="main">
-            <Header id="lil"><span id="lil">Mot du PDG son altesse Ahmed Brhili</span></Header>
+            <Header id="lil"><span id="lil">Mot du PDG son altesse Youness Srhir</span></Header>
             
             <div id="tal">Cher nouveau talent, cette plateforme a pour but de vous accompagner lors du parcours d’intégration, nous prenons cette intégration vraiment au sérieux car cette période est cruciale pour la suite.
 Elle vous permet de vous faire une opinion sur l’entreprise, mais surtout de vous intégrer socialement.
